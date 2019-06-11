@@ -1,0 +1,3 @@
+[submodule "netscope"]
+	path = netscope
+	url = https://github.com/ethereon/netscope.git
